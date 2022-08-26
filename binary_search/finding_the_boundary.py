@@ -10,3 +10,4 @@ Output: 2
 
 Explanation: first true's index is 2.
 '''
+
